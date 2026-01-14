@@ -44,7 +44,7 @@ build/
 DerivedData/
 *.moved-aside
 *.pbxuser
-!default.pbxuser
+!defaiult.pbxuser
 *.mode1v3
 !default.mode1v3
 *.mode2v3
